@@ -1,0 +1,293 @@
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/a52426f936a01c6e1e1e17bb01c5a2ec239bd6f156fd8b64673c1568f3b7a24a?"
+      class="img"
+    />
+    <div class="div-3">
+      <div class="div-4">12:29</div>
+      <div class="div-5">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/0ae7bba4d42429b58c0a22d0cb7411f431bcc7bb5ba03b9cd9dd6c44963b3bd1?"
+          class="img-2"
+        />
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/1f98ceb1fdaeac0275ebe105ecb78a121e39cddb09bd8e5530ad3d620574400a?"
+          class="img-3"
+        />
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/c91bffa8514873f5fb17f3f02b7a4379423519509f6087a6f2ebdaa0f26cd7a9?"
+          class="img-4"
+        />
+      </div>
+    </div>
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/31ac260a5b197193d385ba0c5efe89d7868f8edbb7cd2e2465a5a5c1f39c2bfd?"
+      class="img-5"
+    />
+    <div class="div-6">Sign in</div>
+  </div>
+  <div class="div-7">
+    <div class="div-8">
+      <div class="div-9"><div class="div-10">Email</div></div>
+    </div>
+    <div class="div-11">Password</div>
+    <div class="div-12">Forgot password</div>
+    <div class="div-13">Sign in</div>
+    <div class="div-14">
+      <div class="div-15"></div>
+      <div class="div-16">or</div>
+      <div class="div-17"></div>
+    </div>
+    <div class="div-18">
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-6"
+      />
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-7"
+      />
+      <img
+        loading="lazy"
+        srcset="..."
+        class="img-8"
+      />
+    </div>
+    <div class="div-19">
+      Don’t have an account
+      <span style="text-decoration: underline; color: rgba(238, 20, 20, 1)">
+        Sign up
+      </span>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 50px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-bottom: 58px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    display: flex;
+    flex-direction: column;
+    fill: rgba(255, 13, 13, 0.35);
+    overflow: hidden;
+    position: relative;
+    aspect-ratio: 1.02;
+    width: 100%;
+    align-items: center;
+    padding: 26px 23px;
+  }
+  .img {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .div-3 {
+    position: relative;
+    align-self: stretch;
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .div-4 {
+    color: #000;
+    text-align: center;
+    align-self: start;
+    margin-top: 10px;
+    font: 400 16px Itim, sans-serif;
+  }
+  .div-5 {
+    display: flex;
+    align-items: start;
+    gap: 7px;
+  }
+  .img-2 {
+    aspect-ratio: 0.94;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    fill: #000;
+  }
+  .img-3 {
+    aspect-ratio: 1.23;
+    object-fit: auto;
+    object-position: center;
+    width: 21px;
+    fill: #000;
+  }
+  .img-4 {
+    aspect-ratio: 0.5;
+    object-fit: auto;
+    object-position: center;
+    width: 10px;
+    fill: #000;
+    align-self: stretch;
+  }
+  .img-5 {
+    aspect-ratio: 1.11;
+    object-fit: auto;
+    object-position: center;
+    width: 159px;
+    fill: linear-gradient(180deg, #000 0%, #666 100%);
+    margin-top: 110px;
+    max-width: 100%;
+  }
+  .div-6 {
+    position: relative;
+    color: #000;
+    text-align: center;
+    margin-top: 33px;
+    font: 400 32px Itim, sans-serif;
+  }
+  .div-7 {
+    display: flex;
+    margin-top: 12px;
+    width: 100%;
+    flex-direction: column;
+    padding: 0 47px;
+  }
+  .div-8 {
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 1);
+    display: flex;
+    flex-direction: column;
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+    white-space: nowrap;
+    justify-content: center;
+  }
+  .div-9 {
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .div-10 {
+    font-family: Itim, sans-serif;
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 1);
+    align-items: start;
+    justify-content: center;
+    padding: 15px 18px;
+  }
+  .div-11 {
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 1);
+    margin-top: 22px;
+    align-items: start;
+    color: #000;
+    white-space: nowrap;
+    justify-content: center;
+    padding: 15px 18px;
+    font: 400 16px Itim, sans-serif;
+  }
+  .div-12 {
+    color: #000;
+    align-self: end;
+    margin-top: 28px;
+    font: 400 20px Itim, sans-serif;
+  }
+  .div-13 {
+    border-radius: 50px;
+    background-color: rgba(255, 96, 96, 0.42);
+    align-self: center;
+    margin-top: 21px;
+    width: 242px;
+    max-width: 100%;
+    align-items: center;
+    color: #000;
+    text-align: center;
+    justify-content: center;
+    padding: 17px 60px;
+    font: 400 18px Itim, sans-serif;
+  }
+  .div-14 {
+    display: flex;
+    margin-top: 36px;
+    align-items: center;
+    gap: 14px;
+    font-size: 20px;
+    color: #000;
+    font-weight: 400;
+    white-space: nowrap;
+    text-align: center;
+  }
+  .div-15 {
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #000;
+    align-self: stretch;
+    width: 119px;
+    height: 1px;
+    margin: auto 0;
+  }
+  .div-16 {
+    font-family: Itim, sans-serif;
+    align-self: stretch;
+  }
+  .div-17 {
+    border-color: rgba(0, 0, 0, 1);
+    border-style: solid;
+    border-width: 1px;
+    background-color: #000;
+    align-self: stretch;
+    width: 134px;
+    height: 1px;
+    margin: auto 0;
+  }
+  .div-18 {
+    align-self: center;
+    display: flex;
+    margin-top: 47px;
+    align-items: start;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .img-6 {
+    aspect-ratio: 1.05;
+    object-fit: auto;
+    object-position: center;
+    width: 39px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+  }
+  .img-7 {
+    aspect-ratio: 1.05;
+    object-fit: auto;
+    object-position: center;
+    width: 39px;
+  }
+  .img-8 {
+    aspect-ratio: 1.05;
+    object-fit: auto;
+    object-position: center;
+    width: 39px;
+  }
+  .div-19 {
+    color: #ee1414;
+    text-decoration-line: underline;
+    align-self: center;
+    margin-top: 28px;
+    font: 400 20px Itim, sans-serif;
+  }
+</style>

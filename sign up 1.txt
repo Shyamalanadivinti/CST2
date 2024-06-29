@@ -1,0 +1,82 @@
+<div class="div">
+  <img
+    loading="lazy"
+    srcset="..."
+    class="img"
+  />
+  <div class="div-2">Password</div>
+  <div class="div-3">Confirm password</div>
+  <div class="div-4">Next</div>
+  <div class="div-5">
+    Already have account
+    <span style="text-decoration: underline; color: rgba(238, 20, 20, 1)">
+      Login
+    </span>
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 50px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-bottom: 54px;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+    margin: 0 auto;
+  }
+  .img {
+    aspect-ratio: 0.95;
+    object-fit: auto;
+    object-position: center;
+    width: 100%;
+    fill: rgba(255, 13, 13, 0.35);
+    align-self: stretch;
+  }
+  .div-2 {
+    font-family: Itim, sans-serif;
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 1);
+    margin-top: 27px;
+    width: 283px;
+    max-width: 100%;
+    align-items: start;
+    white-space: nowrap;
+    justify-content: center;
+    padding: 15px 17px;
+  }
+  .div-3 {
+    font-family: Itim, sans-serif;
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 1);
+    margin-top: 26px;
+    width: 283px;
+    max-width: 100%;
+    align-items: start;
+    justify-content: center;
+    padding: 13px 20px;
+  }
+  .div-4 {
+    border-radius: 50px;
+    background-color: rgba(255, 96, 96, 0.42);
+    margin-top: 29px;
+    width: 242px;
+    max-width: 100%;
+    align-items: center;
+    white-space: nowrap;
+    text-align: center;
+    justify-content: center;
+    padding: 20px 60px;
+    font: 18px Itim, sans-serif;
+  }
+  .div-5 {
+    color: #ee1414;
+    text-decoration-line: underline;
+    margin-top: 155px;
+    font: 20px Itim, sans-serif;
+  }
+</style>

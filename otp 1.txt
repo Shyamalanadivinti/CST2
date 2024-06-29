@@ -1,0 +1,170 @@
+<div class="div">
+  <div class="div-2">
+    <img
+      loading="lazy"
+      src="https://cdn.builder.io/api/v1/image/assets/TEMP/a52426f936a01c6e1e1e17bb01c5a2ec239bd6f156fd8b64673c1568f3b7a24a?"
+      class="img"
+    />
+    <div class="div-3">
+      <div class="div-4">12:29</div>
+      <div class="div-5">
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/0ae7bba4d42429b58c0a22d0cb7411f431bcc7bb5ba03b9cd9dd6c44963b3bd1?"
+          class="img-2"
+        />
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/1f98ceb1fdaeac0275ebe105ecb78a121e39cddb09bd8e5530ad3d620574400a?"
+          class="img-3"
+        />
+        <img
+          loading="lazy"
+          src="https://cdn.builder.io/api/v1/image/assets/TEMP/c91bffa8514873f5fb17f3f02b7a4379423519509f6087a6f2ebdaa0f26cd7a9?"
+          class="img-4"
+        />
+      </div>
+    </div>
+    <div class="div-6">OTP</div>
+    <div class="div-7">
+      We will send you email please check you mail and complete otp code
+    </div>
+  </div>
+  <div class="div-8">
+    <div class="div-9">One time password</div>
+    <div class="div-10">Resend OTP</div>
+    <div class="div-11">Confirm OTP</div>
+    <div class="div-12">
+      Already have account
+      <span style="text-decoration: underline; color: rgba(238, 20, 20, 1)">
+        Login
+      </span>
+    </div>
+  </div>
+</div>
+<style>
+  .div {
+    border-radius: 50px;
+    background-color: #fff;
+    display: flex;
+    max-width: 480px;
+    width: 100%;
+    padding-bottom: 54px;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .div-2 {
+    display: flex;
+    flex-direction: column;
+    fill: rgba(255, 13, 13, 0.35);
+    overflow: hidden;
+    position: relative;
+    aspect-ratio: 1.02;
+    width: 100%;
+    padding: 22px 23px 77px;
+  }
+  .img {
+    position: absolute;
+    inset: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+  .div-3 {
+    position: relative;
+    display: flex;
+    width: 100%;
+    gap: 20px;
+    justify-content: space-between;
+  }
+  .div-4 {
+    color: #000;
+    text-align: center;
+    align-self: start;
+    margin-top: 10px;
+    font: 400 16px Itim, sans-serif;
+  }
+  .div-5 {
+    display: flex;
+    align-items: start;
+    gap: 7px;
+  }
+  .img-2 {
+    aspect-ratio: 0.94;
+    object-fit: auto;
+    object-position: center;
+    width: 16px;
+    fill: #000;
+  }
+  .img-3 {
+    aspect-ratio: 1.23;
+    object-fit: auto;
+    object-position: center;
+    width: 21px;
+    fill: #000;
+  }
+  .img-4 {
+    aspect-ratio: 0.5;
+    object-fit: auto;
+    object-position: center;
+    width: 10px;
+    fill: #000;
+    align-self: stretch;
+  }
+  .div-6 {
+    position: relative;
+    color: #000;
+    text-align: center;
+    align-self: center;
+    margin-top: 168px;
+    font: 400 32px Itim, sans-serif;
+  }
+  .div-7 {
+    position: relative;
+    color: #000;
+    margin-top: 44px;
+    font: 400 16px Itim, sans-serif;
+  }
+  .div-8 {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    font-size: 16px;
+    color: #000;
+    font-weight: 400;
+    padding: 0 51px;
+  }
+  .div-9 {
+    font-family: Itim, sans-serif;
+    border-radius: 15px;
+    background-color: rgba(217, 217, 217, 1);
+    align-items: start;
+    padding: 17px 16px 9px;
+  }
+  .div-10 {
+    font-family: Itim, sans-serif;
+    align-self: end;
+    margin-top: 36px;
+  }
+  .div-11 {
+    border-radius: 50px;
+    background-color: rgba(255, 96, 96, 0.42);
+    align-self: center;
+    margin-top: 52px;
+    width: 242px;
+    max-width: 100%;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding: 19px 60px;
+    font: 18px Itim, sans-serif;
+  }
+  .div-12 {
+    color: #ee1414;
+    text-decoration-line: underline;
+    align-self: center;
+    margin-top: 206px;
+    font: 20px Itim, sans-serif;
+  }
+</style>
